@@ -1,7 +1,6 @@
 # Simplon AlloCine
 ![](https://i.imgur.com/tgjrlN8.png)
 
-# AlloCinéClone
 L'objectif est de créer un site internet de recherche d’informations sur des films. Grâce à ce site, on va pouvoir recherche n’importe quel film et connaître toutes les infos liés au film (titre, durée, réalisateur, etc ..).
 
 ## Livrables
