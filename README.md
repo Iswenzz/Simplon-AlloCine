@@ -1,5 +1,4 @@
-![](https://i.imgur.com/XFvRaaO.png)
-# Simplon JS TP
+# Simplon AlloCine
 ![](https://i.imgur.com/tgjrlN8.png)
 
 # AlloCinéClone
